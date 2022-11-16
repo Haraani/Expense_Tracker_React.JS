@@ -1,8 +1,8 @@
 import React from 'react'
-import ExpenseItem from './ExpenseItem';
+import ExpenseItem from './ExpenseItem'
 import './expenses.css'
 
-function Expenses(props){
+const Expenses = (props) => {
     
   
     return (
